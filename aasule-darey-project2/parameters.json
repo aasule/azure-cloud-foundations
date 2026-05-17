@@ -1,0 +1,17 @@
+{
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "vmName": {
+      "value": "aasuleVM"
+    },
+    "adminUsername": {
+      "value": "abduluser"
+    },
+    "adminPassword": {
+      "value": "46769CI@azure"
+    },
+    "location": {
+      "value": "southafricanorth"
+    }
+  }
+}
